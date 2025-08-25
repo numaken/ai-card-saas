@@ -7,5 +7,5 @@ node_modules
 .next
 out
 
-# misc
+# macOS
 .DS_Store
