@@ -1,11 +1,6 @@
-# env
 .env*
 !.env.sample
-
-# node
 node_modules
 .next
 out
-
-# macOS
 .DS_Store
